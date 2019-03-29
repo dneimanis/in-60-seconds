@@ -59,13 +59,14 @@
 }
 
 .reveal pre {
-    width: 100%;
+    width: 120%;
     box-shadow : none;
+    margin-left: -10%;
 }
 
 .reveal pre code {
-    font-size: 0.8em;
-    line-height: 0.8;
+    font-size: 0.5em;
+    line-height: 0.5;
     max-height: 50vh !important;
     opacity: 0.95;
     border-radius: 10px;
