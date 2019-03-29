@@ -5,8 +5,7 @@
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
-background-color : black
+theme : night
 
 #
 # Theme-Override Setting
@@ -25,13 +24,13 @@ logo-postion : top-left
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : center
+layout : top
 
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Design Patterns"
 
 #
 # Published Setting
