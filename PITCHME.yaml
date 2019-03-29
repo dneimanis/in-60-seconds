@@ -6,6 +6,7 @@
 # Doc: https://gitpitch.com/docs/settings/theme
 #
 theme : simple
+background-color : black
 
 #
 # Theme-Override Setting
