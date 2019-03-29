@@ -1,5 +1,4 @@
----
-#Design Patterns
+# Design Patterns
 
 +++
 
