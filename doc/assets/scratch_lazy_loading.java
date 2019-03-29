@@ -6,7 +6,7 @@ public class FooEntity {
 
     public BarEntity getRelatedEntity() {
         if (relatedEntity == null)
-            relatedEntity = new BarEntity(); // Alternatively, this might be a database call
+            relatedEntity = new BarEntity();
         return relatedEntity;
     }
 
